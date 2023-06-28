@@ -45,6 +45,6 @@ class Artemis extends Something {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/artemis-io/artmis-io/blob/output/github-contribution-grid-snake.svg)  
+  ![Snake animation](https://github.com/artemis-io/artemis-io/blob/output/github-contribution-grid-snake.svg)  
 
  </div>
