@@ -41,10 +41,10 @@ class Artemis extends Something {
 }
 ```
 
-## ...🐍
+## ...
 
 <div align="center">
   
-  ![Snake animation](https://github.com/artemis-io/artemis-io/blob/output/github-contribution-grid-snake.svg)  
+  ![IMAGE](https://gifs.eco.br/wp-content/uploads/2021/09/gifs-aesthetic-wallpaper-para-desktop-e-mobile-6.gif)  
 
  </div>
