@@ -41,7 +41,7 @@ class Artemis extends Something {
 }
 ```
 
-## ...
+## ...☕
 
 <div align="center">
   
